@@ -1,0 +1,98 @@
+2024-08-19 13:40:01,585 - 4_CoverFox -INFO - launchBrowser
+2024-08-19 13:40:13,618 - 4_CoverFox -INFO - Click On Get Started
+2024-08-19 13:40:17,840 - 4_CoverFox -INFO - Click on next button
+2024-08-19 13:40:21,256 - 4_CoverFox -WARN - Enter age Between 18-90 years
+2024-08-19 13:40:21,257 - 4_CoverFox -INFO - Handeling age Drop-Down
+2024-08-19 13:40:21,369 - 4_CoverFox -INFO - Click on next button
+2024-08-19 13:40:23,568 - 4_CoverFox -WARN - Please Enter Valid Pincode
+2024-08-19 13:40:23,570 - 4_CoverFox -INFO - Entering Pincode
+2024-08-19 13:40:23,741 - 4_CoverFox -WARN - Please Enter Valid MobileNo
+2024-08-19 13:40:23,745 - 4_CoverFox -INFO - Entering MobileNo
+2024-08-19 13:40:23,898 - 4_CoverFox -INFO - Click on next button
+2024-08-19 13:40:25,933 - 4_CoverFox -INFO - Validating Banners
+2024-08-19 13:40:27,425 - 4_CoverFox -INFO - Validating the Presence of Sort Button
+2024-08-19 13:40:27,939 - 4_CoverFox -INFO - Close Browser
+2024-08-19 13:41:23,611 - 4_CoverFox -INFO - launchBrowser
+2024-08-19 13:41:32,597 - 4_CoverFox -INFO - Click On Get Started
+2024-08-19 13:41:36,743 - 4_CoverFox -INFO - Click on next button
+2024-08-19 13:41:40,198 - 4_CoverFox -WARN - Enter age Between 18-90 years
+2024-08-19 13:41:40,199 - 4_CoverFox -INFO - Handeling age Drop-Down
+2024-08-19 13:41:40,318 - 4_CoverFox -INFO - Click on next button
+2024-08-19 13:41:42,544 - 4_CoverFox -WARN - Please Enter Valid Pincode
+2024-08-19 13:41:42,549 - 4_CoverFox -INFO - Entering Pincode
+2024-08-19 13:41:42,776 - 4_CoverFox -WARN - Please Enter Valid MobileNo
+2024-08-19 13:41:42,778 - 4_CoverFox -INFO - Entering MobileNo
+2024-08-19 13:41:42,948 - 4_CoverFox -INFO - Click on next button
+2024-08-19 13:41:44,977 - 4_CoverFox -INFO - Validating Banners
+2024-08-19 13:41:47,488 - 4_CoverFox -INFO - Validating the Presence of Sort Button
+2024-08-19 13:41:47,945 - 4_CoverFox -INFO - Close Browser
+2024-08-19 13:45:36,376 - 4_CoverFox -INFO - launchBrowser
+2024-08-19 13:45:43,880 - 4_CoverFox -INFO - Click On Get Started
+2024-08-19 13:45:48,050 - 4_CoverFox -INFO - Click on next button
+2024-08-19 13:45:51,563 - 4_CoverFox -WARN - Enter age Between 18-90 years
+2024-08-19 13:45:51,563 - 4_CoverFox -INFO - Handeling age Drop-Down
+2024-08-19 13:45:51,673 - 4_CoverFox -INFO - Click on next button
+2024-08-19 13:45:53,910 - 4_CoverFox -WARN - Please Enter Valid Pincode
+2024-08-19 13:45:53,910 - 4_CoverFox -INFO - Entering Pincode
+2024-08-19 13:45:54,138 - 4_CoverFox -WARN - Please Enter Valid MobileNo
+2024-08-19 13:45:54,138 - 4_CoverFox -INFO - Entering MobileNo
+2024-08-19 13:45:54,298 - 4_CoverFox -INFO - Click on next button
+2024-08-19 13:45:56,329 - 4_CoverFox -INFO - Validating Banners
+2024-08-19 13:45:56,871 - 4_CoverFox -INFO - Validating the Presence of Sort Button
+2024-08-19 13:45:57,304 - 4_CoverFox -INFO - Close Browser
+2024-08-19 13:51:16,341 - 4_CoverFox -INFO - launchBrowser
+2024-08-19 13:51:24,786 - 4_CoverFox -INFO - Click On Get Started
+2024-08-19 13:51:29,050 - 4_CoverFox -INFO - Click on next button
+2024-08-19 13:51:32,525 - 4_CoverFox -WARN - Enter age Between 18-90 years
+2024-08-19 13:51:32,525 - 4_CoverFox -INFO - Handeling age Drop-Down
+2024-08-19 13:51:32,651 - 4_CoverFox -INFO - Click on next button
+2024-08-19 13:51:34,902 - 4_CoverFox -WARN - Please Enter Valid Pincode
+2024-08-19 13:51:34,903 - 4_CoverFox -INFO - Entering Pincode
+2024-08-19 13:51:35,135 - 4_CoverFox -WARN - Please Enter Valid MobileNo
+2024-08-19 13:51:35,138 - 4_CoverFox -INFO - Entering MobileNo
+2024-08-19 13:51:35,303 - 4_CoverFox -INFO - Click on next button
+2024-08-19 13:51:37,339 - 4_CoverFox -INFO - Validating Banners
+2024-08-19 13:51:38,067 - 4_CoverFox -INFO - Validating the Presence of Sort Button
+2024-08-19 13:51:38,501 - 4_CoverFox -INFO - Close Browser
+2024-08-19 13:54:50,493 - 4_CoverFox -INFO - launchBrowser
+2024-08-19 13:54:58,618 - 4_CoverFox -INFO - Click On Get Started
+2024-08-19 13:55:02,749 - 4_CoverFox -INFO - Click on next button
+2024-08-19 13:55:06,123 - 4_CoverFox -WARN - Enter age Between 18-90 years
+2024-08-19 13:55:06,125 - 4_CoverFox -INFO - Handeling age Drop-Down
+2024-08-19 13:55:06,230 - 4_CoverFox -INFO - Click on next button
+2024-08-19 13:55:08,468 - 4_CoverFox -WARN - Please Enter Valid Pincode
+2024-08-19 13:55:08,469 - 4_CoverFox -INFO - Entering Pincode
+2024-08-19 13:55:08,699 - 4_CoverFox -WARN - Please Enter Valid MobileNo
+2024-08-19 13:55:08,699 - 4_CoverFox -INFO - Entering MobileNo
+2024-08-19 13:55:08,861 - 4_CoverFox -INFO - Click on next button
+2024-08-19 13:55:10,894 - 4_CoverFox -INFO - Validating Banners
+2024-08-19 13:55:11,464 - 4_CoverFox -INFO - Validating the Presence of Sort Button
+2024-08-19 13:55:12,063 - 4_CoverFox -INFO - Close Browser
+2024-08-19 14:02:07,694 - 4_CoverFox -INFO - launchBrowser
+2024-08-19 14:02:15,500 - 4_CoverFox -INFO - Click On Get Started
+2024-08-19 14:02:19,661 - 4_CoverFox -INFO - Click on next button
+2024-08-19 14:02:23,122 - 4_CoverFox -WARN - Enter age Between 18-90 years
+2024-08-19 14:02:23,122 - 4_CoverFox -INFO - Handeling age Drop-Down
+2024-08-19 14:02:23,238 - 4_CoverFox -INFO - Click on next button
+2024-08-19 14:02:25,480 - 4_CoverFox -WARN - Please Enter Valid Pincode
+2024-08-19 14:02:25,482 - 4_CoverFox -INFO - Entering Pincode
+2024-08-19 14:02:25,715 - 4_CoverFox -WARN - Please Enter Valid MobileNo
+2024-08-19 14:02:25,717 - 4_CoverFox -INFO - Entering MobileNo
+2024-08-19 14:02:25,878 - 4_CoverFox -INFO - Click on next button
+2024-08-19 14:02:27,913 - 4_CoverFox -INFO - Validating Banners
+2024-08-19 14:02:28,432 - 4_CoverFox -INFO - Validating the Presence of Sort Button
+2024-08-19 14:02:28,901 - 4_CoverFox -INFO - Close Browser
+2024-08-20 19:37:36,201 - 4_CoverFox -INFO - launchBrowser
+2024-08-20 19:37:46,715 - 4_CoverFox -INFO - Click On Get Started
+2024-08-20 19:37:50,864 - 4_CoverFox -INFO - Click on next button
+2024-08-20 19:37:54,254 - 4_CoverFox -WARN - Enter age Between 18-90 years
+2024-08-20 19:37:54,256 - 4_CoverFox -INFO - Handeling age Drop-Down
+2024-08-20 19:37:54,350 - 4_CoverFox -INFO - Click on next button
+2024-08-20 19:37:56,561 - 4_CoverFox -WARN - Please Enter Valid Pincode
+2024-08-20 19:37:56,562 - 4_CoverFox -INFO - Entering Pincode
+2024-08-20 19:37:56,775 - 4_CoverFox -WARN - Please Enter Valid MobileNo
+2024-08-20 19:37:56,775 - 4_CoverFox -INFO - Entering MobileNo
+2024-08-20 19:37:56,909 - 4_CoverFox -INFO - Click on next button
+2024-08-20 19:37:58,932 - 4_CoverFox -INFO - Validating Banners
+2024-08-20 19:37:59,986 - 4_CoverFox -INFO - Validating the Presence of Sort Button
+2024-08-20 19:38:00,400 - 4_CoverFox -INFO - Close Browser
